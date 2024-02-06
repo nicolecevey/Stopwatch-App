@@ -15,7 +15,7 @@ export default function App() {
                 <span className='icon-wrapper'>
                     <FontAwesomeIcon icon={['fas', 'stopwatch']} size='xl'/>
                 </span>
-                <h1>Shopify Stopwatch</h1>
+                <h1>Stopwatch App</h1>
             </span>
             <StopWatch/>
         </div>
